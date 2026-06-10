@@ -1,13 +1,3 @@
-# 📝 Developer Internship Application Form
-
-A beginner-friendly HTML project that demonstrates how websites can collect information from users through **HTML forms**.
-
-This is my **fifth HTML project** in my web development learning journey.
-
-I created a developer internship application form to practice different types of form controls and understand how real-world web forms are structured.
-
----
-
 ## 🎯 Project Goal
 
 The goal of this project is to understand the fundamentals of HTML forms.
@@ -31,7 +21,7 @@ I practiced:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * VS Code
@@ -39,7 +29,7 @@ I practiced:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 developer-internship-form/
@@ -49,7 +39,7 @@ developer-internship-form/
 
 ---
 
-# 📚 HTML Concepts Learned
+# HTML Concepts Learned
 
 ## 1. `<form>`
 
@@ -103,7 +93,7 @@ Examples:
 
 ---
 
-# 🔢 Input Types Practiced
+# Input Types Practiced
 
 | Input Type | Purpose                 |
 | ---------- | ----------------------- |
@@ -118,7 +108,7 @@ Examples:
 
 ---
 
-# 🔘 Radio Buttons
+#  Radio Buttons
 
 Radio buttons are useful when the user should select **one option from a group**.
 
@@ -146,7 +136,7 @@ This allows the browser to treat them as one group.
 
 ---
 
-# ☑️ Checkboxes
+# Checkboxes
 
 Checkboxes allow users to select multiple options.
 
@@ -162,7 +152,7 @@ Unlike radio buttons, multiple checkboxes can be selected.
 
 ---
 
-# 🔽 Dropdown — `<select>`
+# Dropdown — `<select>`
 
 The `<select>` element creates a dropdown list.
 
@@ -180,7 +170,7 @@ The `<select>` element creates a dropdown list.
 
 ---
 
-# 📝 Textarea
+# Textarea
 
 `<textarea>` is used for longer text.
 
@@ -201,7 +191,7 @@ Useful for:
 
 ---
 
-# ⭐ Form Attributes
+#  Form Attributes
 
 ## `placeholder`
 
@@ -260,7 +250,7 @@ The `value` attribute represents the value associated with an input.
 
 ---
 
-# 🗂️ Grouping Form Elements
+#  Grouping Form Elements
 
 ## `<fieldset>`
 
@@ -302,7 +292,7 @@ Together:
 
 ---
 
-# 🔘 Buttons
+# Buttons
 
 ## Submit Button
 
@@ -323,28 +313,6 @@ Used to submit the form.
 ```
 
 Used to reset the form fields.
-
----
-
-# 🧠 What I Learned
-
-After completing this project, I learned:
-
-* How HTML forms work
-* How to create input fields
-* How different input types work
-* How labels connect to inputs
-* How radio buttons work
-* How checkboxes work
-* How dropdown menus work
-* How textareas work
-* How submit and reset buttons work
-* How `required` provides basic validation
-* How `placeholder` provides input hints
-* How `name` and `value` are used
-* How to group related fields using `<fieldset>`
-* How to use `<legend>` to describe a group
-* How forms are structured in real-world websites
 
 ---
 
