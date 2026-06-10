@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Developer Internship Application</h1>
+
+    <p>Fill out this form to apply for a developer intership</p>
+    <hr>
+
+    <form>
+        <!--personal information-->
+        <fieldset>
+        <legend>Personal Information</legend>
+
+        <br>
+        <label for="fullname">Full Name:</label>
+        <input type="text" id="fullname" name="fullname" placeholder="Enter your full name" required >
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <br><br>
+
+        <label for="password">Create Password:</label>
+        <input type="password" id="password" name="password" placeholder="Create a password" required >
+        <br><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" min="18" max="30" >
+        <br><br>
+
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob" >
+
+    
+        </fieldset>
+
+        <br>
+        <!-- Education --> 
+         <fieldset>
+
+            <legend>Education</legend>
+            <br>
+
+            <label for="degree">Degree:</label>
+            <select id="degree" name="degree">
+                <option value="">Select your degree</option>
+                <option value="btech">B.Tech</option>
+                <option value="be">B.E</option> 
+                <option value="bca">BCA</option>
+                <option value="mca">MCA</option>
+            </select>
+
+            <br><br>
+
+            <label for="cgpa">CGPA:</label>
+            <input type="number" id="cgpa" name="cgpa" step="0.01" min="0" max="10" placeholder="Example: 8.87" >
+
+         </fieldset>
+
+         <br>
+
+         <!-- Internship Preferences -->
+           <fieldset>
+            <legend>Internship Preferences</legend>
+             <p>Preferred Work Type:</p>
+            <input type="radio" id="remote" name="worktype" value="remote" >
+
+            <label for="remote">Remote</label>
+            <input type="radio" id="onsite" name="worktype" value="onsite" >
+             <label for="onsite">On-site</label>
+            <input type="radio" id="hybrid" name="worktype" value="hybrid" >
+           <label for="hybrid">Hybrid</label>
+
+            <p>Technologies You Know:</p>
+             <input type="checkbox" id="java" name="skills" value="java" >
+            <label for="java">Java</label> <br> <input type="checkbox" id="html" name="skills" value="html" >
+            <label for="html">HTML</label>
+             <br>
+
+             <input type="checkbox" id="css" name="skills" value="css" >
+            <label for="css">CSS</label>
+            <br>
+            <input type="checkbox" id="javascript" name="skills" value="javascript" >
+            <label for="javascript">JavaScript</label>
+             <br>
+            <input type="checkbox" id="react" name="skills" value="react" >
+            <label for="react">React</label> 
+            <br> 
+            <input type="checkbox" id="node" name="skills" value="node" > 
+            <label for="node">Node.js</label> 
+
+           </fieldset>
+           <br>
+
+           <!-- About Applicant -->
+
+           <fieldset>
+
+            <legend>About You</legend>
+            <br>
+            <label for="github">GitHub Profile:</label>
+            <input type="url" id="github" name="github" placeholder="https://github.com/username" > 
+            <br><br>
+
+            <label for="reason"> Why do you want this internship? </label> 
+            <br><br>
+            <textarea id="reason" name="reason" rows="6" cols="40" placeholder="Write your answer here..." ></textarea>
+        
+           </fieldset>
+
+           <br>
+
+           <!--Terms-->
+           <input type="checkbox" id="terms" name="terms" required > 
+           <label for="terms"> I agree that the information provided is correct. </label> 
+           <br><br>
+
+           <!-- Buttons -->
+             <button type="submit"> Submit Application </button> 
+             <button type="reset"> Clear Form </button>
+    </form>
+
+</body>
+</html>
