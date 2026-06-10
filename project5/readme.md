@@ -327,87 +327,6 @@ Used to reset the form fields.
 
 ---
 
-# 🌎 Real-World Applications
-
-HTML forms are used in many websites for:
-
-* Login pages
-* Registration
-* Job applications
-* Internship applications
-* Contact forms
-* Search boxes
-* Feedback forms
-* Surveys
-* Checkout pages
-* Profile creation
-
----
-
-# 🔗 How Forms Fit Into Web Development
-
-HTML forms create the **user interface for collecting data**.
-
-Later, JavaScript can be used to:
-
-```text
-User
-  ↓
-HTML Form
-  ↓
-JavaScript
-  ↓
-Validation
-  ↓
-Backend
-  ↓
-Database
-```
-
-This is an important foundation for learning the **MERN stack**.
-
----
-
-# 📈 My HTML Learning Progress
-
-```text
-Project 1
-My Developer Journey
-        ↓
-HTML Structure
-Headings + Paragraphs + HR
-        ↓
-Project 2
-My Developer Profile
-        ↓
-Images + Links + Attributes
-        ↓
-Project 3
-My Developer Learning Roadmap
-        ↓
-Lists + Nested Lists + Description Lists
-        ↓
-Project 4
-My Weekly Coding Dashboard
-        ↓
-Tables + THEAD + TBODY + TFOOT
-+ COLSPAN + ROWSPAN
-        ↓
-Project 5
-Developer Internship Application
-        ↓
-Forms
-+ Inputs
-+ Radio Buttons
-+ Checkboxes
-+ Select
-+ Textarea
-+ Buttons
-+ Validation
-```
-
----
-
 # 🎯 Practice Challenges
 
 After completing the project, try these yourself.
@@ -438,25 +357,6 @@ Add a **portfolio URL** field and make it required.
 Create a separate **Contact Form** without looking at this project.
 
 Try to remember the structure yourself.
-
----
-
-# 🔮 Next Step
-
-The next major step is **CSS**.
-
-I will start learning how to transform plain HTML pages into properly designed websites using:
-
-* Colors
-* Fonts
-* Backgrounds
-* Borders
-* Spacing
-* Width and height
-* CSS selectors
-* Classes
-* IDs
-* Box model
 
 ---
 
