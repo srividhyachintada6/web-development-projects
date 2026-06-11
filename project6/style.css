@@ -1,0 +1,265 @@
+
+
+body {
+
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background-color: #f8f3ed;
+
+    color: #333;
+
+}
+
+
+/* Header */
+
+header {
+
+    background-color: #4b2e2e;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 30px;
+
+}
+
+
+header h1 {
+
+    font-size: 36px;
+
+    margin: 0;
+
+}
+
+
+header p {
+
+    font-size: 16px;
+
+}
+
+
+nav {
+
+    margin-top: 20px;
+
+}
+
+
+nav a {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 0 15px;
+
+    font-weight: bold;
+
+}
+
+
+nav a:hover {
+
+    text-decoration: underline;
+
+}
+
+
+/* Welcome */
+
+.welcome {
+
+    text-align: center;
+
+    padding: 60px 20px;
+
+    background-color: #ead7c3;
+
+}
+
+
+.welcome h2 {
+
+    font-size: 32px;
+
+}
+
+
+.welcome p {
+
+    font-size: 18px;
+
+}
+
+
+/* Buttons */
+
+button {
+
+    background-color: #4b2e2e;
+
+    color: white;
+
+    border: none;
+
+    padding: 12px 20px;
+
+    border-radius: 6px;
+
+    cursor: pointer;
+
+    font-weight: bold;
+
+}
+
+
+button:hover {
+
+    background-color: #704545;
+
+}
+
+
+/* Menu Section */
+
+.menu-section {
+
+    padding: 40px 60px;
+
+    text-align: center;
+
+}
+
+
+.menu-section h2 {
+
+    font-size: 28px;
+
+    margin-bottom: 30px;
+
+}
+
+
+/* Menu Container */
+
+.menu-container {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 25px;
+
+    flex-wrap: wrap;
+
+}
+
+
+/* Menu Card */
+
+.menu-card {
+
+    background-color: white;
+
+    width: 250px;
+
+    padding: 25px;
+
+    border-radius: 12px;
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+
+.menu-card:hover {
+
+    transform: translateY(-5px);
+
+}
+
+
+.menu-card h3 {
+
+    font-size: 22px;
+
+}
+
+
+.menu-card p {
+
+    color: #666;
+
+    line-height: 1.5;
+
+}
+
+
+.menu-card span {
+
+    display: block;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    margin: 15px 0;
+
+}
+
+
+/* Special Offer */
+
+.offer {
+
+    text-align: center;
+
+    background-color: #d7b899;
+
+    padding: 45px 20px;
+
+}
+
+
+.offer h2 {
+
+    font-size: 30px;
+
+}
+
+
+.offer p {
+
+    font-size: 18px;
+
+    margin-bottom: 20px;
+
+}
+
+
+/* Footer */
+
+footer {
+
+    background-color: #4b2e2e;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 25px;
+
+}
+
+
+footer p {
+
+    margin: 8px;
+
+}
