@@ -133,7 +133,7 @@ Adjusts the layout for smaller screens.
 * Hover effects
 * Media queries
 
-## ➡️Practice Challenges
+## Practice Challenges
 
 1. Add two more destinations.
 2. Change the card width and spacing.
