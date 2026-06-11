@@ -1,5 +1,5 @@
-````markdown
-# ☕ Project 6 — Brew & Bite Café
+
+# Project 6 — Brew & Bite Café
 
 A simple café menu website built using **HTML and CSS**.
 
@@ -8,25 +8,25 @@ spacing, cards, buttons, hover effects, and a basic Flexbox layout.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-```text
+
 project6-cafe-menu/
 │
 ├── index.html
 └── style.css
-````
+
 
 ---
 
-# 🎯 CSS Concepts Used
+# CSS Concepts Used
 
 ## 1. External CSS
 
@@ -251,29 +251,9 @@ This combines multiple CSS concepts together.
 
 ---
 
-# 🧠 What I Learned
+# Main CSS Concepts
 
-* External CSS
-* CSS selectors
-* Colors
-* Fonts and text styling
-* Margin
-* Padding
-* Border radius
-* Box shadow
-* Flexbox
-* `justify-content`
-* `gap`
-* `flex-wrap`
-* Button styling
-* Hover effects
-* Basic card design
 
----
-
-# 🔑 Main CSS Concepts
-
-```text
 Selectors
    ↓
 Colors
@@ -289,22 +269,4 @@ Flexbox
 Hover Effects
    ↓
 Card Layout
-```
 
----
-
-## 🚀 Practice
-
-Try changing:
-
-* Café colors
-* Card width
-* Card spacing
-* Button design
-* Font sizes
-* Box shadow
-* Hover effect
-* Menu items
-
-```
-```
