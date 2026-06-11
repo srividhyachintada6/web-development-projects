@@ -15,17 +15,6 @@ spacing, cards, buttons, hover effects, and a basic Flexbox layout.
 
 ---
 
-## Project Structure
-
-
-project6-cafe-menu/
-│
-├── index.html
-└── style.css
-
-
----
-
 # CSS Concepts Used
 
 ## 1. External CSS
