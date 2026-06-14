@@ -1,4 +1,4 @@
-# 🍰 Project 8 — Sweet Crumbs Bakery
+# Project 8 — Sweet Crumbs Bakery
 
 A bakery website built using HTML and CSS.
 
